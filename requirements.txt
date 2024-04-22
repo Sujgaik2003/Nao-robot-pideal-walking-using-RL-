@@ -1,0 +1,10 @@
+torch
+torchvision
+mujoco
+mujoco-py; sys_platform == 'linux' or sys_platform == 'linux2' or sys_platform == 'darwin'
+mujoco-py; sys_platform == 'win32'
+mujoco-python-viewer
+ray
+transforms3d
+matplotlib
+scipy
