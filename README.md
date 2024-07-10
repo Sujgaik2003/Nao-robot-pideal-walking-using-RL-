@@ -14,7 +14,7 @@ LearningHumanoidWalking/
 ```
 
 ## Requirements:
-- Python version: 3.7.11  
+- Python version: 3.7.11 
 - [Pytorch](https://pytorch.org/)
 - pip install:
   - mujoco==2.2.0
