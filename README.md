@@ -58,9 +58,12 @@ https://github.com/Sujgaik2003/Nao-robot-pideal-walking-using-RL-/assets/1183289
 
 *Descending stairs:*  
 
+https://github.com/Sujgaik2003/Nao-robot-pideal-walking-using-RL-/assets/118328948/a00de9bc-2e9e-42e1-915e-1796cfae448c
+
 
 *Walking on curves:*  
-![curve](https://user-images.githubusercontent.com/16384313/180697266-7b44beb3-38bf-4494-b568-963919dc1106.gif)
+
+https://github.com/Sujgaik2003/Nao-robot-pideal-walking-using-RL-/assets/118328948/ea4df1d8-b566-4cdc-850b-9bdf5a2fd364
 
 
 
